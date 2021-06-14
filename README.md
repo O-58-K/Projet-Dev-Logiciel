@@ -1,7 +1,7 @@
 # Projet-Dev-Logiciel
  Okan Tosun & Baptiste Marie
  
- Il faut installer tout d'abord si ce n'est pas fait Python sur vos machines : https://www.python.org/downloads/
+ Il faut installer tout d'abord si ce n'est pas fait installer Python sur vos machines : https://www.python.org/downloads/
 
 Pour que le jeu fonctionne sur votre machine il faut changer l'adresse IP dans les fichiers "client.py" et "pong.py" (elle se trouve au début du programme)
 
